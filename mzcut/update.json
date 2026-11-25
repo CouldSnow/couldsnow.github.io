@@ -1,1 +1,9 @@
-
+{
+  "version": "6.0.7",
+  "title": "发现新版本",
+  "notes": [
+    "修复已知问题",
+    "优化使用体验"
+  ],
+  "downloadUrl": "https://my.feishu.cn/docx/GP3IdAhtLoyHipxo5VWc50TUnSg?from=from_copylink"
+}
